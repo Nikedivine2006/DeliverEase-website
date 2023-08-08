@@ -1,8 +1,6 @@
 import React from "react";
 import './Footer.css';
 import Logo from "../../Images/logo.png";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faFacebookF, faInstagram, faTwitter} from "@fortawesome/fontawesome-free-brands";
 function Footer() {
   return (
     <div className="Footer">
@@ -19,9 +17,7 @@ function Footer() {
           </li>
 
           <li className="Foot-icon">
-            <FontAwesomeIcon icon={faFacebookF} />
-            < FontAwesomeIcon icon={faInstagram} />
-            < FontAwesomeIcon icon={faTwitter} />
+      
           </li>
 
         </ul>
