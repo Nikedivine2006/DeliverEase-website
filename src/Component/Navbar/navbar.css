@@ -1,0 +1,103 @@
+.Navbar {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+}
+
+.Main-nav {
+  background-color: #fbf3f1;
+  padding-bottom: 50px;
+  position: sticky;
+  top: 0px;
+  z-index: 111;
+}
+
+.Navbar .Logo {
+  width: 20%;
+  object-fit: contain;
+  display:flex;
+}
+
+.Navbar .Logo .img{
+  width: 100%;
+}
+.Navbar .Logo img {
+ width: 60% ;
+  object-fit: contain;
+  position: relative;
+  bottom: 10px;
+}
+
+.Navbar .Logo h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.Navbar .Logo span {
+  color: #e0483d;
+}
+
+.Navbar nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+.Navbar nav ul li {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  color: black;
+  width: 30%;
+  white-space: nowrap;
+  align-items: center;
+  margin-right: 40px;
+}
+
+a{
+  color:black  !important;
+}
+
+.active-link{
+  color: #e0483d !important;
+  border-bottom: 2px solid #e0483d;
+}
+
+.Navbar .NavIcon ul {
+  display: flex;
+  gap: 30px;
+}
+
+.Navbar .NavIcon ul li {
+  font-size: 18px;
+}
+
+.Navbar .CartIcon {
+  position: relative;
+}
+.Navbar .CartIcon div {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  position: absolute;
+  left: 10px;
+  bottom: 20px;
+  border-radius: 30px;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
+
+.Navbar .NavIcon button {
+  /* width: 120px; */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background-color: #e0483d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  outline: none;
+  white-space: nowrap;
+}

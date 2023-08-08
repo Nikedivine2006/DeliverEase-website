@@ -1,0 +1,81 @@
+.Footer{
+    margin-top: 100px;
+}
+
+.footer-ul{
+    display: flex;
+    gap: 30px;
+}
+
+.footer-ul ul{
+    /* background-color: red; */
+    width: 170px !important;
+}
+
+.Footer .logo{
+    width: 30%;
+    height: 90px;
+    display: flex;
+    gap: 20px;
+}
+
+.Footer .logo img{
+    width: 70%;
+    object-fit: contain;
+}
+
+.Footer .logo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    position: relative;
+    top: 30px;
+}
+
+.Footer .logo span{
+    color: #e0483d;
+}
+
+.Footer .Logo li h5{
+    color: gray;
+    font-size: 18px;
+    color: gray;
+    width: 200%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Footer .Logo .Foot-icon{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #e0483d;
+}
+
+.Footer .About{
+    position: relative;
+    left: 150px;
+    top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Footer  .About li{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.Footer .About .active{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.Footer .About li:hover{
+    color: #e0483d;
+    cursor: pointer;
+}
+
+.Footer .About .active:hover{
+    color: black;
+}

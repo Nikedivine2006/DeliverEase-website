@@ -1,0 +1,256 @@
+.Main-Menu{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.component{
+    width: 70%;
+    height: 850px;
+    border-radius: 20px;
+    background-color: #F9F2E6;
+    padding: 20px;
+}
+
+.component nav{
+    background-color: #F9F2E6;
+    padding: 20px;
+    width: 100%;
+    height: 70px;
+    border-radius: 10px 0px 0px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.component nav h3{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.component nav p{
+    color: #E0483D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+}
+
+.component .info{
+    display: flex;
+    gap: 50px;
+    width: 40%;
+    /* background-color: black; */
+} 
+
+.component .info .icon{
+    display: flex;
+    gap: 30px;
+    color: #E0483D;
+    font-size: 18px;
+}
+
+.component .info .Account{
+    display: flex;
+    width: 100%;
+    /* background-color: blue; */
+    height: 50px;
+    white-space: nowrap;
+    margin-bottom: 40px;
+}
+
+.component .info .Account .img{
+    width: 100%;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+    background-image: url(../../Images/avatar.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.component .info .Account .Log{
+    display: flex;
+    flex-direction: column;
+}
+
+.component .info .Account .Log k{
+    color: red;
+    margin-bottom: -10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+.component .banner{
+    width: 100%;
+    height: 200px;
+    background-color:#E0483D;
+    margin-top: 30px;
+    border-radius: 20px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.component .banner .Banner-contect{
+  width: 50%;
+  height: auto;
+  padding: 20px;
+}
+
+.component .banner .Banner-contect h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 27px;
+}
+
+.component .banner .Banner-contect button{
+    color: #E0483D;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7px;
+    width: 150px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+
+.component .banner .Banner-img{
+    width: 50%;
+    height: auto;
+}
+
+.component .banner .Banner-img img{
+    width: 80%;
+}
+
+.List{
+    margin-bottom: 50px;
+}
+.List nav p{
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+.List nav span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.List nav .icon{
+    color: #E0483D;
+    margin-left: 5px;
+}
+
+.List ul{
+    display: flex;
+    width: 100%;
+    gap:20px;
+}
+
+.List .foodIcon{
+    width: 12%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #ebd6b3;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+.List .foodIcon img{
+    width: 100%;
+}
+
+.List .foodIcon span{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+.Dish{
+    padding-left: 20px;
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+}
+.Dish h2{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.Dish .d-flex{
+    gap: 20px;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    width: 100%;
+    height: 200px;
+}
+.Dish .col{
+    background-color: red;
+    min-width: 30%;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.Dish .col img{
+    width: 100%;
+    height: 120px;
+    object-fit:cover;
+    border-radius: 10px;
+}
+.Dish .d-flex::-webkit-scrollbar{
+    display: none;
+}
+
+.Dish .col-content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.Dish .col-content p{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 5px;
+}
+
+.Dish .col-content span{
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+    height: 30px;
+    width: 60px;
+    text-align: center;
+    background-color: #E0483D;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.Dish a{
+    color: blue !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.Dish .ActiveLink{
+    width: 100%;
+    text-align: right;
+}
+.cart{
+    width: 30%;
+    height: 850px;
+    background-color: #e2dfdf;
+    border-radius: 20px ;
+}

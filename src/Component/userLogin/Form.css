@@ -1,0 +1,54 @@
+.Main-Form{
+    margin-top: 60px;
+    display: flex;
+}
+.Main-Form .Card{
+    background-color: red;
+    width: 70%;
+    height: 400px;
+}
+
+.Main-Form .Card img{
+    width: 100%;
+    object-fit:cover;
+    height: 400px;
+}
+.Main-Form .Form{
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    position: relative;
+    right:  120px;
+    top: 60px;
+    box-shadow: 2px 2px 2px 2px rgb(168, 166, 166);
+    padding: 40px;
+}
+
+.Main-Form .Form div{
+    display: flex;
+    flex-direction: column;
+}
+
+.Main-Form .Form input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.Main-Form .Form label{
+    color: gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Main-Form .Form button{
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    background-color: #e0483d;
+    padding: 6px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+}

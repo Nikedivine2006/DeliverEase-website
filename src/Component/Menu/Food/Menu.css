@@ -1,0 +1,157 @@
+.menu-banner {
+  display: flex;
+}
+
+.menu-banner div {
+  width: 50%;
+  height: 400px;
+  padding: 40px;
+  margin-top: 80px;
+}
+.menu-banner .banner-content {
+  margin-left: 50px;
+}
+
+.menu-banner .banner-content h2 {
+  font-size: 55px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.menu-banner .banner-content h1 {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  color: #e0483d;
+}
+
+.menu-banner .banner-content p {
+  color: gray;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu-banner .banner-content button {
+  background-color: #e0483d;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+}
+.Main-menu {
+  padding: 40px;
+  margin-left: 30px;
+  margin-top: 60px;
+}
+
+.Main-menu nav {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+}
+.Main-menu nav .search {
+  position: relative;
+}
+
+.Main-menu nav .search input {
+  width: 100%;
+  outline: none;
+  border: 2px solid #e0483d;
+  border-radius: 10px;
+  padding-left: 30px;
+  height: 35px;
+}
+
+.Main-menu nav .search .icon {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  color: #e0483d;
+}
+
+.Main-menu .search ::placeholder {
+  color: #e0483d;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Main-menu h2 {
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.Main-menu .d-flex {
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.Main-menu .menu-card {
+  background-color: white;
+  width: 17%;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px gray;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 40px;
+  padding-right: 20px;
+}
+
+.Main-menu .menu-card img {
+  width: 100%;
+  position: relative;
+  right: 20px;
+  object-fit: contain;
+}
+
+.Main-menu .menu-card h2 {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-weight: bold; */
+  margin-top: 7px;
+}
+
+.Main-menu .menu-card h3 {
+  font-size: 20px;
+  color: #e0483d;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  bottom: 20px;
+}
+
+.Cart-btn {
+  display: flex;
+  justify-content: space-between;
+}
+.Cart-btn .review {
+  display: flex;
+  gap: 5px;
+}
+.Cart-btn .review .icon {
+  color: orange;
+  font-size: 16px;
+}
+
+.Cart-btn .review span {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  bottom: 2px;
+}
+
+.Cart-btn .btn {
+  background-color: #e0483d;
+  font-size: 17px;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  bottom: 10px;
+}

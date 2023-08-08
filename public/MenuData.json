@@ -1,0 +1,312 @@
+[
+{
+    "id": 1,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202211_0085_BaconEggCheeseBiscuit_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Bacon, Egg & Cheese Biscuit",
+    "foodPrice": 40,
+    "foodDescription": "The McDonald's Bacon, Egg & Cheese Biscuit breakfast sandwich features a warm, buttermilk biscuit brushed with real butter, thick cut Applewood smoked bacon, a fluffy folded egg, and a slice of melty American cheese. There are 460 calories in a Bacon, Egg & Cheese Biscuit at McDonald's. Try one today with a Premium Roast Coffee and order with Mobile Order & Pay on the McDonald's App!",
+    "foodRating": "6.0"
+},
+
+{
+    "id": 2,
+    "foodImg":"https://www.themealdb.com/images/category/beef.png",
+    "foodName": "Beef",
+    "foodPrice": 50,
+    "foodDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]",
+    "foodRating": "7.0"
+},
+
+{
+    "id": 3,
+    "foodImg":"https://www.themealdb.com/images/category/chicken.png",
+    "foodName": "Chicken",
+    "foodPrice": 25,
+    "foodDescription": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011.[1] Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets.",
+    "foodRating": "8.7"
+},
+
+{
+    "id": 4,
+    "foodImg":"https://www.themealdb.com/images/category/dessert.png",
+    "foodName": "Dessert",
+    "foodPrice": 60,
+    "foodDescription": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal. The term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts",
+    "foodRating": "4.4"
+},
+
+{
+    "id": 5,
+    "foodImg":"https://www.themealdb.com/images/category/lamb.png",
+    "foodName": "lamb",
+    "foodPrice": 30,
+    "foodDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages. A sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.",
+    "foodRating": "9.0"
+},
+
+{
+    "id": 6,
+    "foodImg":"https://www.themealdb.com/images/category/lamb.png",
+    "foodName": "Lamb",
+    "foodPrice": 30,
+    "foodDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages. A sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.",
+    "foodRating": "4.5"
+},
+
+{
+    "id": 7,
+    "foodImg":"https://www.themealdb.com/images/category/miscellaneous.png",
+    "foodName": "Miscellaneous",
+    "foodPrice": 85,
+    "foodDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages. A sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.",
+    "foodRating": "5.0"
+},
+
+{
+    "id": 8,
+    "foodImg":"https://www.themealdb.com/images/category/pasta.png",
+    "foodName": "Pasta",
+    "foodPrice": 45,
+    "foodDescription": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. Also commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca)",
+    "foodRating": "6.3"
+},
+
+
+
+{
+    "id": 9,
+    "foodImg":"https://www.themealdb.com/images/category/seafood.png",
+    "foodName": "SeaFood",
+    "foodPrice": 90,
+    "foodDescription": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and shellfish. Shellfish include various species of molluscs, crustaceans, and echinoderms. Historically, sea mammals such as whales and dolphins have been consumed as food, though that happens to a lesser extent in modern times. Edible sea plants, such as some seaweeds and microalgae, are widely eaten as seafood around the world, especially in Asia (see the category of sea vegetables). In North America, although not generally in the United Kingdom, the term SeaFood is extended to fresh water organisms eaten by humans, so all edible aquatic life may be referred to as seafood. For the sake of completeness, this article includes all edible aquatic life.",
+    "foodRating": "10"
+},
+
+
+
+{
+    "id": 10,
+    "foodImg":"https://www.themealdb.com/images/category/side.png",
+    "foodName": "Side",
+    "foodPrice": 15,
+    "foodDescription": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that accompanies the entrée or main course at a meal. Side dishes such as salad, potatoes and bread are commonly used with main courses throughout many countries of the western world. New side orders introduced within the past decade[citation needed], such as rice and couscous, have grown to be quite popular throughout Europe, especially at formal occasions (with couscous appearing more commonly at dinner parties with Middle Eastern dishes).",
+    "foodRating": "5.0"
+},
+
+
+
+{
+    "id": 11,
+    "foodImg":"https://www.themealdb.com/images/category/starter.png",
+    "foodName": "Starter",
+    "foodPrice": 45,
+    "foodDescription": "An entrée in modern French table service and that of much of the English-speaking world (apart from the United States and parts of Canada) is a dish served before the main course of a meal; it may be the first dish served, or it may follow a soup or other small dish or dishes. In the United States and parts of Canada, an entrée is the main dish or the only dish of a meal. Historically, the entrée was one of the stages of the “Classical Order” of formal French table service of the 18th and 19th centuries. It formed a part of the “first service” of the meal, which consisted of potage, hors d’œuvre, and entrée (including the bouilli and relevé).",
+    "foodRating": "7.0"
+},
+
+
+{
+    "id": 12,
+    "foodImg":"https://www.themealdb.com/images/category/vegan.png",
+    "foodName": "Vegan",
+    "foodPrice": 57,
+    "foodDescription": "Veganism is both the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals.[b] A follower of either the diet or the philosophy is known as a vegan (pronounced /ˈviːɡən/ VEE-gən). Distinctions are sometimes made between several categories of veganism. Dietary vegans (or strict vegetarians) refrain from consuming animal products, not only meat but also eggs, dairy products and other animal-derived substances.[c] The term ethical vegan is often applied to those who not only follow a vegan diet but extend the philosophy into other areas of their lives, and oppose the use of animals for any purpose.[d] Another term is environmental veganism, which refers to the avoidance of animal products on the premise that the harvesting or industrial farming of animals is environmentally damaging and unsustainable.",
+    "foodRating": "9.5"
+},
+
+
+{
+    "id": 13,
+    "foodImg":"https://www.themealdb.com/images/category/vegetarian.png",
+    "foodName": "Vegetarian",
+    "foodPrice": 100,
+    "foodDescription": "the flesh of any other animal), and may also include abstention from by-products of animal slaughter. Vegetarianism may be adopted for various reasons. Many people object to eating meat out of respect for sentient life. Such ethical motivations have been codified under various religious beliefs, as well as animal rights advocacy. Other motivations for vegetarianism are health-related, political, environmental, cultural, aesthetic, economic, or personal preference. There are variations of the diet as well: an ovo-lacto vegetarian diet includes both eggs and dairy products, an ovo-vegetarian diet includes eggs but not dairy products, and a lacto-vegetarian diet includes dairy products but not eggs. A vegan diet excludes all animal products, including eggs and dairy. Some vegans also avoid other animal products such as beeswax, leather or silk clothing, and goose-fat shoe polish.",
+    "foodRating": "10"
+},
+
+
+
+
+{
+    "id": 14,
+    "foodImg":"https://www.themealdb.com/images/category/breakfast.png",
+    "foodName": "BreakFast",
+    "foodPrice": 45,
+    "foodDescription": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more typical, or traditional, breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast.",
+    "foodRating": "6.0"
+},
+
+
+
+
+
+
+{
+    "id": 15,
+    "foodImg":"https://www.themealdb.com/images/category/goat.png",
+    "foodName": "Goat",
+    "foodPrice": 150,
+    "foodDescription": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wild goat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the subfamily Caprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat. Goats are one of the oldest domesticated species of animal, and have been used for milk, meat, fur and skins across much of the world. Milk from goats is often turned into goat cheese.",
+    "foodRating": "10"
+},
+
+
+
+
+{
+    "id": 16,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0337_HotFudgeSundae_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Hot Fudge Sundae",
+    "foodPrice": 15,
+    "foodDescription": "Treat yourself to a delicious Hot Fudge Sundae from McDonald’s! Our classic Hot Fudge Sundae is made with creamy vanilla soft serve and smothered in chocolatey hot fudge topping. It’s a perfectly sweet addition to any of your favorite McDonald’s items. There are 330 calories in a McDonald's Hot Fudge Sundae.",
+    "foodRating": "7.0"
+},
+
+
+
+
+{
+    "id": 17,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0706_BakedApplePie_Broken_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Baked Apple Pie",
+    "foodPrice": 25,
+    "foodDescription": "McDonald's Baked Apple Pie recipe features 100% American-grown apples, and a lattice crust baked to perfection and topped with sprinkled sugar. There are 230 calories in McDonald's apple pie. Pair it with a Hot Caramel Sundae for your own twist on Apple Pie A-La-Mode! Order a Baked Apple Pie today and get it curbside with Mobile Order & Pay! Get it delivered with McDelivery®!",
+    "foodRating": "8.5"
+},
+
+
+
+
+{
+    "id": 18,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_3830_MandMMcFlurry_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "McFlurry® with M&M'S® Candies",
+    "foodPrice": 45,
+    "foodDescription": "Treat yourself to a delicious M&M’S® McFlurry! The McDonald’s McFlurry with M&M’S® is a sweet combination of creamy vanilla soft serve with crunchy M&M’S® chocolate candies swirled in. It’s a perfectly sweet addition to any McDonald's meal. There are 640 calories in a regular McFlurry with M&M’S candies.",
+    "foodRating": "9.0"
+},
+
+
+
+{
+    "id": 19,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202108_6500-001_BlueberryMuffin_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Blueberry Muffin",
+    "foodPrice": 10,
+    "foodDescription": "McDonald's Blueberry Muffin recipe features a soft and fluffy muffin baked with real blueberries and topped with a streusel crumb topping that goes wonderfully with a Premium Roast Coffee. There are 440 calories in a Blueberry Muffin from McDonald's. Order a Blueberry Muffin for breakfast using Mobile Order & Pay* in the McDonald’s app.",
+    "foodRating": "5.5"
+},
+
+
+
+
+{
+    "id": 20,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_0100_DeluxeSpicyCrispyChickenSandwich_PotatoBun_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Spicy Deluxe McCrispy",
+    "foodPrice": 45,
+    "foodDescription": "The Spicy Deluxe McCrispy™ is big on everything, including heat. Our southern-style fried chicken fillet on a potato roll, topped with shredded lettuce, Roma tomatoes and Spicy Pepper Sauce kicks crispy, juicy and tender up to the highest level.",
+    "foodRating": "8.0"
+},
+
+
+
+
+{
+    "id": 21,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_3590_BigBreakfast_HotCakes_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Big Breakfast® with Hotcakes",
+    "foodPrice": 45,
+    "foodDescription": "McDonald’s Big Breakfast® with Hotcakes satisfies with both sweet and savory breakfast favorites. Fill up with a warm biscuit, savory hot sausage, fluffy scrambled eggs, crispy hash browns, and golden brown hotcakes with a side of real butter and the sweet flavor of maple. There are 1,340 calories in McDonald's Big Breakfast with Hotcakes. Want to pass the line? Use the McDonald’s App to Mobile Order & Pay! Looking for McDonald's delivery? Order a McDonald's Big Breakfast® with Hotcakes using McDelivery®!",
+    "foodRating": "9.0"
+},
+
+
+
+{
+    "id": 22,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_9841_SausageEggCheeseMcGriddle_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Sausage, Egg & Cheese McGriddles®",
+    "foodPrice": 50,
+    "foodDescription": "Sausage, Egg & Cheese McGriddles® feature soft, warm griddle cakes—with the sweet taste of maple—that hold a fluffy folded egg, savory sausage, and melty American cheese. McGriddles® cakes have no artificial preservatives or flavors and no colors from artificial sources. There are 550 calories in a Sausage, Egg, and Cheese McGriddles®. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay! McDonald's App download and registration required.",
+    "foodRating": "10"
+},
+
+
+{
+    "id": 23,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202211_6116_EVM_HB_SausageMcGriddle_Coffee_Glass_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Sausage McGriddles® Meal",
+    "foodPrice": 60,
+    "foodDescription": "Our McDonald’s Sausage McGriddles meal features soft, warm griddle cakes with a touch of sweetness and savory sausage, with crispy golden Hash Browns and a small McCafé® Premium Roast Coffee. There are 575 calories in a Sausage McGriddles Meal with a Sausage McGriddles breakfast sandwich, small Coffee and Hash Browns.",
+    "foodRating": "7.5"
+},
+
+
+{
+    "id": 24,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0334_SausageBurrito_Alt_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Sausage Burrito",
+    "foodPrice": 35,
+    "foodDescription": "Start your day off with a loaded Egg and Sausage Burrito from the McDonald's breakfast menu McDonald's Breakfast Burrito recipe is loaded with fluffy scrambled egg, pork sausage, melty cheese, green chiles, and onion! It's wrapped in a soft tortilla, making it the perfect grab and go breakfast. There are 310 calories in a McDonald's Sausage breakfast burrito. Enjoy it as a snack or grab a Sausage Burrito Meal with a crispy golden Hash Browns and a small McCafé® Premium Roast Coffee.",
+    "foodRating": "9.0"
+},
+
+
+{
+    "id": 25,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1697_MediumPremiumHotChocolate_Glass_A1_HL_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Hot Chocolate",
+    "foodPrice": 55,
+    "foodDescription": "Taste the delicious chocolatey flavor of McCafé® Hot Chocolate. McDonald’s Hot Chocolate recipe features steamed whole milk with rich hot chocolate syrup and is finished with whipped light cream and chocolate drizzle. Available in small, medium and large sizes. There are 370 calories in a small Hot Chocolate from McDonald’s. ",
+    "foodRating": "7.0"
+},
+
+{
+    "id": 26,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_5280_10McNuggets_Stacked_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "10 Piece Chicken McNuggets®",
+    "foodPrice": 60,
+    "foodDescription": "Our tender, juicy Chicken McNuggets® are made with all white meat chicken and no artificial colors, flavors or preservatives. There are 420 calories in a 10 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay!",
+    "foodRating": "5.5"
+},
+
+
+{
+    "id": 27,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6050_SmallFrenchFries_Standing_832x472:product-header-desktop?wid=830&hei=456&dpr=off",
+    "foodName": "World Famous Fries®",
+    "foodPrice": 60,
+    "foodDescription": "McDonald's World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody. With 0g of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside.",
+    "foodRating": "4.5"
+},
+
+
+{
+    "id": 28,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2692_MediumCappuccino_Glass_A1_HL_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "Cappuccino",
+    "foodPrice": 60,
+    "foodDescription": "Enjoy a warm cup of Cappuccino from McDonald’s. Wondering what's in a Cappuccino? Our McCafé® Cappuccino recipe is made with whole steamed milk, bold espresso made from sustainably sourced beans, foamed milk, and your choice of flavor.",
+    "foodRating": "8.0"
+},
+
+
+{
+    "id": 29,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_5280_10McNuggets_Stacked_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+    "foodName": "10 Piece Chicken McNuggets®",
+    "foodPrice": 60,
+    "foodDescription": "Our tender, juicy Chicken McNuggets® are made with all white meat chicken and no artificial colors, flavors or preservatives. There are 420 calories in a 10 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay!",
+    "foodRating": "5.5"
+},
+
+{
+    "id": 30,
+    "foodImg":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_3491_MediumMochaFrappe_Glass_A1_832x472:product-header-desktop?wid=830&hei=456&dpr=off",
+    "foodName": "Mocha Frappé",
+    "foodPrice": 60,
+    "foodDescription": "Enjoy McCafé®'s cold and creamy Mocha Frappé. Wondering what’s in a Mocha Frappé from McDonald’s? Made with rich chocolate flavor and a hint of coffee, our Mocha Frappé recipe is blended with ice and topped with whipped light cream and chocolatey drizzle.",
+    "foodRating": "7.5"
+}
+]

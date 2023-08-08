@@ -1,0 +1,157 @@
+.Main-Cart {
+  padding: 20px;
+  position: relative;
+}
+.Main-Cart span {
+  color: #df483d;
+}
+
+.Main-Cart .Carts {
+  height: 330px;
+  width: 105%;
+  overflow-y: scroll;
+  white-space: nowrap;
+}
+
+.Main-Cart .Carts::-webkit-scrollbar {
+  display: none;
+}
+
+.Cart-card {
+  background-color: #df483d;
+  width: 95%;
+  height: 300px;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 3px 3px 3px 3px rgb(165, 162, 162);
+}
+
+.Cart-card img {
+  width: 90%;
+}
+
+.Cart-card .d-flex {
+  justify-content: space-between;
+}
+
+.Cart-card h3 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Cart-card p {
+  color: white;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 5px;
+}
+
+.Cart-card .icons {
+  color: white;
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+  position: relative;
+  bottom: 10px;
+}
+.Cart-card .btn {
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
+  color: #df483d;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20px;
+}
+
+.Cart nav {
+  margin-top: 30px;
+}
+
+.Cart nav h2 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.Cart-Item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.Cart-Item .Cart-img {
+  width: 20%;
+  display: flex;
+}
+
+.Cart-Item .Cart-img img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.Cart-Item .Cart-img h2 {
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.Cart-Item .Cart-price p {
+  font-size: 17px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-bottom: -3px;
+}
+
+.Cart-Item .Cart-price .icon {
+  position: relative;
+  left: 20px;
+}
+
+.Cart .Checkout {
+  /* background-color: red; */
+  width: 100%;
+  height: 100px;
+}
+.Cart .Checkout .Tax {
+  display: flex;
+  justify-content: space-between;
+}
+.Cart .Checkout .totalPrize {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cart .Checkout h3 {
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.Cart .Checkout p {
+  font-size: 18px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.Cart .Checkout span {
+  color: #df483d;
+}
+
+.Cart .Checkout .btn {
+  width: 100%;
+  border: none;
+  background-color: #df483d;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+}
